@@ -1,0 +1,1 @@
+This project is a Food Delivery Website Frontend, built using only HTML and CSS. It is a static website that showcases the essential pages of a food delivery service, including a homepage, menu page, order page, and contact page.
